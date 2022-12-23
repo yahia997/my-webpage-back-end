@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58174730.css",
+    "main.js": "/static/js/main.8bd50a8b.js",
+    "static/js/787.51050b47.chunk.js": "/static/js/787.51050b47.chunk.js",
+    "static/media/my-img.jpg": "/static/media/my-img.41940a990e0b26c97b1a.jpg",
+    "static/media/green-dots.png": "/static/media/green-dots.9f36819348a4d35290e2.png",
+    "static/media/my-img.webp": "/static/media/my-img.d8c7a0956d0f191ce365.webp",
+    "static/media/Screenshot (100).png": "/static/media/Screenshot (100).021860d58e1db4656ba4.png",
+    "static/media/Screenshot (104).png": "/static/media/Screenshot (104).632c4c66b181f6a0f92e.png",
+    "static/media/mixkit-bubble-pop-up-alert-notification-2357.mp3": "/static/media/mixkit-bubble-pop-up-alert-notification-2357.ce05fec8ea81ca04856a.mp3",
+    "static/media/Screenshot (22).png": "/static/media/Screenshot (22).b898a54a072fc36f3662.png",
+    "static/media/Screenshot (101).png": "/static/media/Screenshot (101).27215323de9cba37e793.png",
+    "static/media/Screenshot (103).png": "/static/media/Screenshot (103).ce7ea02285929ec14196.png",
+    "static/media/Screenshot (74).png": "/static/media/Screenshot (74).558146fcbb86db30278d.png",
+    "static/media/Screenshot (102).png": "/static/media/Screenshot (102).78686cee86eed9b5fb9b.png",
+    "static/media/Screenshot (23).png": "/static/media/Screenshot (23).af951004bfbfbcf2675b.png",
+    "static/media/Screenshot (105).png": "/static/media/Screenshot (105).18cccc4388dd66128ddc.png",
+    "static/media/freeCodeCamp-js-certification.png": "/static/media/freeCodeCamp-js-certification.181daa07072122e6eeea.png",
+    "static/media/icons8-whatsapp-2.svg": "/static/media/icons8-whatsapp-2.eb62f65cdd95d88be693a81899a6af87.svg",
+    "index.html": "/index.html",
+    "static/media/projects-done.svg": "/static/media/projects-done.20a1508a60e5b66128c76b00f6be5dbe.svg",
+    "static/media/icons8-telegram-app.svg": "/static/media/icons8-telegram-app.ba3979360e726b7c51d1.svg",
+    "static/media/icons8-facebook.svg": "/static/media/icons8-facebook.5e84c514c2167bb54af7696e830e73c2.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.64b8087e9187eec65a069ee1b452172a.svg",
+    "static/media/icons8-whatsapp.svg": "/static/media/icons8-whatsapp.0df8c058205bcc92cf9cdbaed25dc197.svg",
+    "static/media/image2vector.svg": "/static/media/image2vector.52cb30e0093ee474f5a3.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.e6296331613df0629633b925ac6779e8.svg",
+    "static/media/year-experience.svg": "/static/media/year-experience.10bb29c56622ca838ed5da89fadab9bc.svg",
+    "static/media/right.svg": "/static/media/right.b09a9e1dfd61badcf1d95d841be1afce.svg",
+    "main.58174730.css.map": "/static/css/main.58174730.css.map",
+    "main.8bd50a8b.js.map": "/static/js/main.8bd50a8b.js.map",
+    "787.51050b47.chunk.js.map": "/static/js/787.51050b47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58174730.css",
+    "static/js/main.8bd50a8b.js"
+  ]
+}
